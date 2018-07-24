@@ -56,6 +56,11 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
+a {
+    text-decoration: none;
+    color: #FFFFBD;
+}
+
 #madagascar {
     background-color: #03a9f4;
 }
