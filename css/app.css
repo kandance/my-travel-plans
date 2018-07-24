@@ -10,7 +10,6 @@ html {
 }
 
 body {
-    display: flex;
     margin: 0;
     height: 100%;
 }
@@ -18,7 +17,7 @@ body {
 .container {
     margin: auto;
     padding: 1em;
-    width: 80%;
+    width: 110%;
 }
 
 .destination-container {
@@ -38,6 +37,17 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.header {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin: 5%;
+}
+
+h1 {
+    color: purple;
 }
 
 h2 {
